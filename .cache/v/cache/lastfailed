@@ -1,0 +1,3 @@
+{
+  "tests/calculator_test.py::TestCalc::()::test_calc": true
+}
